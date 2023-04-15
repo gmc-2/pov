@@ -1,0 +1,6 @@
+windows_container:
+  image: windowsserverdatacenter:2022
+ env:
+  CIRRUS_SHELL: powershell
+ task:
+  script: echo "hello world"
